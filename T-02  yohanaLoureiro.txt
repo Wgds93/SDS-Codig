@@ -1,0 +1,20 @@
+Yohana Dhara Dos Santos Loureiro
+RA: 201951071761
+Curso: CCO
+
+CORBA
+A tecnologia escolhida foi CORBA, levando em conta fatores como Interoperabilidade, Fiabilidade e Maturidade da Plataforma.
+Onde justifico melhor cada um deles nos parágrafos a seguir:
+
+Interoperabilidade:
+Arquitetura desenhada para ser independente, tanto da linguagem, quanto de sua plataforma. Além do aspecto central de suporte a multiplataformas, 
+suportando mais de 30 sistemas operativos, inclusive mais sistemas da Microsoft do que a própria arquitetura da mesma.
+
+Fiabilidade:
+O modelo de mensagens tem suporte para comunicações assíncronas.
+Sua segurança é uma das melhores especificações de segurança existentes para computação distribuídas, 
+tendo em consideração os aspectos de integridade, responsabilidade, disponibilidade, confidenciabilidade e não-repudio.
+
+Maturidade da Plataforma:
+Sobre a maturidade da tecnologia, pode se considerar que CORBA está a frente de suas concorrentes, 
+tanto pelo número de sistemas desenvolvidos e em desenvolvimentos, além de sua vantagem no fator humano que decide a aceitação ou não de uma tecnologia.
