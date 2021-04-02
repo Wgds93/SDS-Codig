@@ -1,5 +1,5 @@
 AV1
 ----
 
-T-01 = 1.25 pts  [nao recebi um arquivo com o diagrama]
+T-01 = 1.5 pts
 
