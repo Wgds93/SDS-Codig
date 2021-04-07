@@ -1,0 +1,19 @@
+Nome: Gabriel Adriano Binoto 
+RA: 201951392329
+DATA: 05/04/2021
+
+RMI
+
+Assim como os outros o RMI apresenta vantagens e desvantagens para seus usuários.
+Podemos citar como uma desvantagem: a necessidade da utilização da JVM em suas ações em 
+ambos os ambientes, cliente, servidor. Tornando-se preso a essa plataforma.
+Como Vantagens podemos citar: A fácil modelagem e de forma natural de um sistema 
+distribuído. Que se caracteriza e se define como um sistema a qual os componentes sendo 
+hardware ou software, estão localizados de forma distinta ou não, porem se mantem 
+conectados por rede e trocam mensagens entre si para administrar e coordenar ações.
+Outra vantagem é a sintaxe da chamada de método local, permitindo que o código gerado seja 
+de fácil entendimento além de utilizar uma linguagem amplamente difundida no mercado e de 
+fácil acesso às informações, exemplos e estudos.
+Mesmo com a desvantagem apresentada anteriormente o RMI é uma das formas mais fáceis 
+de se implementar um sistema distribuído, tornando a arquitetura escolhida para o projeto, 
+por ser fácil e dispor de um riquíssimo volume de conteúdo.
