@@ -1,0 +1,16 @@
+Nome: William Guimarães Marquezani dos Santos 
+RA: 202051086599
+DATA: 07/04/2021
+
+DCOM
+
+A tecnologia escolhida foi DCOM, levando em conta fatores como a sua abrangencia 
+de linguagens como C ++, Java, Delphi e até mesmo COBOL na implementação de objetos, 
+suporte a várias interfaces para objetos e usa o método QueryInterface () para navegar entre as interfaces. 
+Isso significa que um proxy de cliente carrega dinamicamente vários stubs de servidor na camada remota, 
+dependendo do número de interfaces que estão sendo usadas.
+O DCOM também busca realizar a coleta de lixo distribuída, usando um mecanismo de ping para coletar 
+lixo as referências do objeto do servidor remoto.
+Pra mim o DCOM é a melhor escolha mesmo tendo como ponto negativo em sua usabilidade a necessidade 
+uma plataforma implementada de serviço COM.
+
