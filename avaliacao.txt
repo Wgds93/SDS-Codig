@@ -3,3 +3,10 @@ AV1
 
 T-01 = 1.5 pts
 
+T-02
+
+	Gabriel	= 1 pt
+	William	= 1 pt
+	Yohana	= 1 pt
+
+
