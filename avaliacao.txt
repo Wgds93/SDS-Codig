@@ -9,4 +9,6 @@ T-02
 	William	= 1 pt
 	Yohana	= 1 pt
 
+T-3 = 2.5 pts
+
 
